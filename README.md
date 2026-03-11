@@ -1,4 +1,4 @@
-# WK | Lead Frontend Developer
+# WK | Frontend Developer | UI/UX Specialist
 > I create appealing, functional interfaces that users love to interact with.
 
 ---
@@ -7,14 +7,14 @@
 **Hi, I'm Wahila Kambole**
 Frontend Developer | UI/UX Enthusiast
 
-I apply systems-thinking and engineering logic to build high-performance web interfaces. Formerly Chief Technology Officer (CTO), I now focus on engineering scalable, minimalist frontend architectures.
+I apply systems-thinking and engineering logic to build high-performance web interfaces. Formerly Technical Lead, I now focus on engineering scalable, minimalist frontend architectures.
 
 ---
 
 ## 🛠️ Technical Skills
 | Logic & Structure | Style & Feel | System & Flow |
 | :--- | :--- | :--- |
-| **HTML5** (Semantic) | **CSS3** (Grid/Flex) | **JavaScript** |
+| **HTML5** (Semantic) | **CSS3** (Grid/Flex) | **User Interface Design (UI)** | **JavaScript** |
 | **Responsive Design** | **Modern UI/UX** | **Performance Optimization** |
 
 ---
@@ -40,7 +40,7 @@ Developed an advanced iteration featuring enhanced UI components and integrated 
 ---
 
 ## 🎓 Experience & Background
-* **Chief Technology Officer (CTO):** Spearheaded technical roadmaps and established scalable UI/UX protocols for startup environments.
+* **Technical Lead:** Architected the frontend structure for a startup web platform, prioritizing a "mobile-first" approach and high-fidelity UI design.
 * **Systems Engineering:** Background in **Chemical Engineering** and **Computational Logic** (Copperbelt University), applying algorithmic thinking to frontend development.
 
 ---
@@ -51,4 +51,5 @@ I'm always open to new opportunities and collaborations.
 [**Email Me**](mailto:kambolewahila99@gmail.com) | [**LinkedIn**](https://linkedin.com/in/wahila-kambole-a0384b3a6) | [**GitHub**](https://github.com/kambolewahila99-web)
 
 ---
+
 *© 2026 Wahila Kambole. All rights reserved.*
