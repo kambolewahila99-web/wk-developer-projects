@@ -251,6 +251,8 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
+    align-items: stretch;
+    /* Ensures cards in the same row are the same height */
 }
 
 .project-card {
@@ -260,6 +262,9 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     border: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .project-card:hover {
@@ -298,9 +303,13 @@ body {
 }
 
 .project-card p {
-    padding: 0 1.5rem;
-    color: #64748b;
-    font-size: 0.95rem;
+    .project-description {
+        padding: 0 1.5rem;
+        color: #64748b;
+        font-size: 0.95rem;
+        flex-grow: 1;
+        /* Pushes the tags to the bottom of the card */
+    }
 }
 
 .project-card:hover .project-image {
