@@ -33,7 +33,17 @@ Developed an advanced iteration featuring enhanced UI components and integrated 
 * **Tech:** `HTML` `CSS` `JavaScript`
 * **Result:** Seamless user flow and optimized interactivity.
 
-### ⬛ Project Three
+[**View Live Site**](https://kambolewahila99-web.github.io/project-alpha/)
+
+### ⬛ Project Three: Responsive Layout
+**[Web Layout Prototype]**
+A sleek, responsive web layout prototype demonstrating modern frontend development techniques. This project focuses on clean architecture using CSS variables and modular layout engines.
+* **Tech:** `HTML` `CSS`
+* **Result:** Modern responsive layout with dynamic dark mode support and a CSS Grid-based navigation system.
+
+[**View Live Site**](https://kambolewahila99-web.github.io/frontend_page_demo/)
+
+### ⬛ Project Four
 **[Enterprise Showcase]**
 *Coming Soon*
 
@@ -48,7 +58,7 @@ Developed an advanced iteration featuring enhanced UI components and integrated 
 ## 📞 Let's Connect
 I'm always open to new opportunities and collaborations.
 
-[**Email Me**](mailto:kambolewahila99@gmail.com) | [**LinkedIn**](https://linkedin.com/in/wahila-kambole-a0384b3a6) | [**GitHub**](https://github.com/kambolewahila99-web)
+[**Email Me**](mailto:kambolewahila99@gmail.com) | [**LinkedIn**](linkedin.com/in/wahila-k-frontend-developer) | [**GitHub**](https://github.com/kambolewahila99-web)
 
 ---
 
