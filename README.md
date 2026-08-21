@@ -1,5 +1,5 @@
 # WK | Frontend Developer | UI/UX Specialist
-> I create appealing, functional interfaces that users love to interact with.
+> Crafting lightweight, responsive and performance-driven web interfaces from the ground up.
 
 ---
 
@@ -7,7 +7,7 @@
 **Hi, I'm Wahila Kambole**
 Frontend Developer | UI/UX Enthusiast
 
-I apply systems-thinking and engineering logic to build high-performance web interfaces. Formerly Technical Lead, I now focus on engineering scalable, minimalist frontend architectures.
+I'm a Frontend Developer with a systems-thinking approach to building scalable, high-performance web applications. I specialize in crafting clean, responsive, and accessible user interfaces using modern HTML5, modular CSS, and JavaScript.
 
 ---
 
@@ -51,7 +51,7 @@ A sleek, responsive web layout prototype demonstrating modern frontend developme
 
 ## 🎓 Experience & Background
 * **Technical Lead:** Architected the frontend structure for a startup web platform, prioritizing a "mobile-first" approach and high-fidelity UI design.
-* **Systems Engineering:** Background in **Chemical Engineering** and **Computational Logic** (Copperbelt University), applying algorithmic thinking to frontend development.
+* **Independent Projects:** Specialized in modern CSS architectures to produce high-performance, accessible designs, proactively expanded technical capabilities through documentation-driven learning, Git/GitHub workflows, and live production deployments.
 
 ---
 
