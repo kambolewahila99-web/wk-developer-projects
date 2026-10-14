@@ -55,10 +55,18 @@ A sleek, responsive web layout prototype demonstrating modern frontend developme
 
 ---
 
+## 🎨 Design & Features
+* **Premium dark + light glassmorphism UI** with an electric indigo → violet gradient accent — the theme adapts automatically to the user's device light/dark setting (`prefers-color-scheme`).
+* **Typography system:** Orbitron (display headings), Inter (body), JetBrains Mono (badges & tags).
+* **Accessibility first:** semantic HTML5, inline SVG icons, visible focus rings, `prefers-reduced-motion` support, WCAG-friendly contrast in both themes.
+* **Performance:** zero frameworks — pure HTML/CSS/JS with native CSS nesting, fluid `clamp()` sizing and IntersectionObserver-based reveals.
+
+---
+
 ## 📞 Let's Connect
 I'm always open to new opportunities and collaborations.
 
-[**Email Me**](mailto:kambolewahila99@gmail.com) | [**LinkedIn**](linkedin.com/in/wahila-k-frontend-developer) | [**GitHub**](https://github.com/kambolewahila99-web)
+[**Email Me**](mailto:kambolewahila99@gmail.com) | [**LinkedIn**](https://linkedin.com/in/wahila-k-frontend-developer) | [**GitHub**](https://github.com/kambolewahila99-web) | [**Upwork**](https://upwork.com/freelancers/~011f8de80cf635073b)
 
 ---
 
